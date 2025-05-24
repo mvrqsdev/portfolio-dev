@@ -10,7 +10,6 @@ Este repositório contém uma página desenvolvida com **HTML** e **CSS**, nela 
 
 - Estrutura semântica utilizando tags HTML5.
 - Estilização com CSS puro.
-- Galeria de Imagens.
 
 ## 📂 Estrutura de Arquivos
 - assets/
