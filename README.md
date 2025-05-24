@@ -26,6 +26,7 @@ Este repositório contém uma página desenvolvida com **HTML** e **CSS**, nela 
 - Flexbox
 - Grid
 - Seletores
+- Posicionamento
 - Combinators
 - Valores e Unidades de Medidas
 - Especificidade do CSS
