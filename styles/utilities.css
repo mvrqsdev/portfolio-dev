@@ -1,0 +1,17 @@
+.container {
+  padding-inline: 163px;
+  margin: auto;
+  max-width: 1040px;
+}
+
+.grid {
+  display: grid;
+}
+
+.grid-cols-3 {
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.gap-24 {
+  gap: 24px;
+}
