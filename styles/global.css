@@ -7,7 +7,7 @@
 :root {
   --red: #E3646E;
   --purple: #BB72E9;
-  --blue: #B996DB;
+  --blue: #3996DB;
   --green: #82BC4F;
   --yellow: #EABD5F;
 
@@ -36,4 +36,32 @@ body {
   font: var(--text-sm);
   background-color: var(--gray-200);
   color: var(--gray-500);
+}
+
+a {
+  text-decoration: none;
+  font: inherit;
+  color: inherit;
+}
+
+.heading {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+
+  span {
+    font: var(--subtitle);
+    color: var(--red);
+  }
+
+  h2 {
+    font: var(--title-md);
+    color: var(--gray-600);
+  }
+
+  p {
+    font: var(--text-md);
+    color: var(--gray-500);
+  }
 }
